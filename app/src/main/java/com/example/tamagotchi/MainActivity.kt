@@ -16,11 +16,13 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+        
+        //Declaration
         val ImageView: ImageView = findViewById(R.id.welcome)
         val Welcome: ImageView = findViewById(R.id.welcome_dog)
         val Button: Button = findViewById(R.id.button_start)
-
+        
+        //Activate Button//
         Button.setOnClickListener{
 
             val intent = Intent(this,MainActivity2::class.java)
