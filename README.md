@@ -6,23 +6,11 @@ In this game the user has a virtual pet dog to take care of. When opening the ga
 
 ![Screenshot 2024-05-05 113530](https://github.com/Thabiso67/Tamagotchi_Game/assets/160724052/73fe5193-8a02-4736-bd14-38cb764444c0)
 
-
-
 ![Screenshot 2024-05-05 113356](https://github.com/Thabiso67/Tamagotchi_Game/assets/160724052/ffc51a15-5cb2-4dd3-ad83-1ed8b092ea75)
-
-
-
-
-
-
-
 
 One of the first issues that I faced was getting the pictures to have live animation. For the welcome page, I had drawn a simple picture of the dog wagging its tail using an app call ‘FlipaClip’. However, the game would either not run or the animation would not show at all. Below is a screenshot of what the animation of the dog looks like:
 
-
 ![20240501_132346](https://github.com/Thabiso67/Tamagotchi_Game/assets/160724052/6e941dd5-7351-4817-b35d-adc5ad36f5d9)
-
-
 
 As a result, I have had to stick with just using normal pictures for the welcome page and for the rest of the action buttons when they are pressed. The second issue was getting the dog’s status value to change based on the action taken by the player. After researching different similar video games, most the codes used for them would not work. Some of the codes would cause the game not to run or crash. So as a result, my game will not show status value changes no matter what button the player presses.
 
@@ -31,14 +19,13 @@ The development process of this game was started designing the User Interface wi
 ![Screenshot 2024-05-05 142603](https://github.com/Thabiso67/Tamagotchi_Game/assets/160724052/5b509e56-25e2-491e-b3ea-060c70d26e6a)
 
 ![Snipet activty 2](https://github.com/Thabiso67/Tamagotchi_Game/assets/160724052/88e5cb04-b56a-42d6-9658-508c2e522665)
-
-
 Next for the second Activity, I had to activate the three action buttons for the matching pictures to appear. To do that first I had to add my drawn pictures to the games’ drawable folder and to make the names of the pictures were in small letters in for the buttons to be able to be activated. Once that was done, I had to declare the three buttons and then just like in the first Activity, activate them using ‘setOnClickListener’ and then I linked the buttons with the pictures. The screenshot below shows how this was done.
+
+![Screenshot 2024-05-05 142715](https://github.com/Thabiso67/Tamagotchi_Game/assets/160724052/3be031ec-eee7-46d5-b033-be2a927b9de0)
+
 After finishing with the development of the game it was time to test it its functionality provided that not all the required features were implemented. After running and testing the game restarting it multiple times, apart from it having minor freezes the game ran well. All the buttons were working as they should the pictures were displaying as intended. The only issues which were previously mentioned were the status values of the dog not being functional at all. 
 I can say that so far, this was the most difficult project I have done as I have never made a mobile video game before. In a way it has help me learn a lot more about other features of Android Studio that I wish I knew before. Overall, I can’t say I am too satisfied with results the game. I know there are areas where they could be improvement such the status values of the dog and having living animations as it is a video game.
-
 In conclusion, the development processes this game did came with a lot of challenges and obstacles. Despite the hard work that was put in, there is still room for improvement for this game. I will use the learning experience of this to show improvement in other possible mobile game projects.
-
 Bibliography
 •	Dreamstime. [Online].  Available at: https://www.dreamstime.com/illustration/stick-figure-dog.html [Accessed 30 April 2024]
 
@@ -47,4 +34,3 @@ Bibliography
 •	how to change image on button click in android studio. 2022. YouTube video, added by MaskedProgrammer. [Online]. Available at: https://www.youtube.com/watch?v=_2HmTXCJBDM&list=LL&index=7 [Accessed 01 May 2024]
 
 •	Kotlin - Open a New Activity with a Button Click in Android Studio | Kotlin | 2021 | #2. 2021. YouTube video, added by Foxandroid. [Online]. Available at: https://www.youtube.com/watch?v=2gljhNFKimk&t=271 [Accessed 26 April 2024]
-
