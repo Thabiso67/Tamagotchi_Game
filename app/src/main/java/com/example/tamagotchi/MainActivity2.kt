@@ -13,7 +13,8 @@ class MainActivity2 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main2)
-
+        
+        //Declaration
         val ImageView: ImageView = findViewById(R.id.welcome_dog)
         val Feed: Button = findViewById(R.id.feed)
         val Clean: Button = findViewById(R.id.clean)
@@ -22,7 +23,8 @@ class MainActivity2 : AppCompatActivity() {
         val Mood: TextView = findViewById(R.id.textView2)
         val Dirt: TextView = findViewById(R.id.textView3)
         val bundle: Bundle? = intent.extras
-
+        
+        //Activating Buttons
         Feed.setOnClickListener {
 
             ImageView.setImageResource(R.drawable.feed)
