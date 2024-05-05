@@ -19,6 +19,7 @@ In this game the user has a virtual pet dog to take care of. When opening the ga
 One of the first issues that I faced was getting the pictures to have live animation. For the welcome page, I had drawn a simple picture of the dog wagging its tail using an app call ‘FlipaClip’. However, the game would either not run or the animation would not show at all. Below is a screenshot of what the animation of the dog looks like:
 
 
+![20240501_132346](https://github.com/Thabiso67/Tamagotchi_Game/assets/160724052/6e941dd5-7351-4817-b35d-adc5ad36f5d9)
 
 
 
