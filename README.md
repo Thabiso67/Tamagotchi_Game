@@ -19,6 +19,7 @@ The development process of this game was started designing the User Interface wi
 ![Screenshot 2024-05-05 142603](https://github.com/Thabiso67/Tamagotchi_Game/assets/160724052/5b509e56-25e2-491e-b3ea-060c70d26e6a)
 
 ![Snipet activty 2](https://github.com/Thabiso67/Tamagotchi_Game/assets/160724052/88e5cb04-b56a-42d6-9658-508c2e522665)
+
 Next for the second Activity, I had to activate the three action buttons for the matching pictures to appear. To do that first I had to add my drawn pictures to the games’ drawable folder and to make the names of the pictures were in small letters in for the buttons to be able to be activated. Once that was done, I had to declare the three buttons and then just like in the first Activity, activate them using ‘setOnClickListener’ and then I linked the buttons with the pictures. The screenshot below shows how this was done.
 
 ![Screenshot 2024-05-05 142715](https://github.com/Thabiso67/Tamagotchi_Game/assets/160724052/3be031ec-eee7-46d5-b033-be2a927b9de0)
@@ -26,6 +27,7 @@ Next for the second Activity, I had to activate the three action buttons for the
 After finishing with the development of the game it was time to test it its functionality provided that not all the required features were implemented. After running and testing the game restarting it multiple times, apart from it having minor freezes the game ran well. All the buttons were working as they should the pictures were displaying as intended. The only issues which were previously mentioned were the status values of the dog not being functional at all. 
 I can say that so far, this was the most difficult project I have done as I have never made a mobile video game before. In a way it has help me learn a lot more about other features of Android Studio that I wish I knew before. Overall, I can’t say I am too satisfied with results the game. I know there are areas where they could be improvement such the status values of the dog and having living animations as it is a video game.
 In conclusion, the development processes this game did came with a lot of challenges and obstacles. Despite the hard work that was put in, there is still room for improvement for this game. I will use the learning experience of this to show improvement in other possible mobile game projects.
+
 Bibliography
 •	Dreamstime. [Online].  Available at: https://www.dreamstime.com/illustration/stick-figure-dog.html [Accessed 30 April 2024]
 
