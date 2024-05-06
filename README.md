@@ -24,8 +24,10 @@ Next for the second Activity, I had to activate the three action buttons for the
 
 ![Screenshot 2024-05-05 142715](https://github.com/Thabiso67/Tamagotchi_Game/assets/160724052/3be031ec-eee7-46d5-b033-be2a927b9de0)
 
-After finishing with the development of the game it was time to test it its functionality provided that not all the required features were implemented. After running and testing the game restarting it multiple times, apart from it having minor freezes the game ran well. All the buttons were working as they should the pictures were displaying as intended. The only issues which were previously mentioned were the status values of the dog not being functional at all. 
+After finishing with the development of the game it was time to test it its functionality provided that not all the required features were implemented. After running and testing the game restarting it multiple times, apart from it having minor freezes the game ran well. All the buttons were working as they should the pictures were displaying as intended. The only issues which were previously mentioned were the status values of the dog not being functional at all.
+
 I can say that so far, this was the most difficult project I have done as I have never made a mobile video game before. In a way it has help me learn a lot more about other features of Android Studio that I wish I knew before. Overall, I can’t say I am too satisfied with results the game. I know there are areas where they could be improvement such the status values of the dog and having living animations as it is a video game.
+
 In conclusion, the development processes this game did came with a lot of challenges and obstacles. Despite the hard work that was put in, there is still room for improvement for this game. I will use the learning experience of this to show improvement in other possible mobile game projects.
 
 Bibliography
