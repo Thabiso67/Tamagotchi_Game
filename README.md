@@ -31,6 +31,7 @@ I can say that so far, this was the most difficult project I have done as I have
 In conclusion, the development processes this game did came with a lot of challenges and obstacles. Despite the hard work that was put in, there is still room for improvement for this game. I will use the learning experience of this to show improvement in other possible mobile game projects.
 
 Bibliography
+
 •	Dreamstime. [Online].  Available at: https://www.dreamstime.com/illustration/stick-figure-dog.html [Accessed 30 April 2024]
 
 •	J Meson. M Meson. T Meson. 2012. FlipaClip. Version 3.9.0. [App]. Available from Google Play. (Accessed 30 April 2024)
